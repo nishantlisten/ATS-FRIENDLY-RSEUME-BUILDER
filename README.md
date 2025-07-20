@@ -39,7 +39,6 @@ Edit
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/yourusername/resume-pdf-generator.git
 cd resume-pdf-generator
 Install the dependencies:
