@@ -110,5 +110,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 🙋‍♂️ Author
 Vaibhav Gupta
-📫 guptavaibhav654@gmail.com
-🌐 Portfolio
+📫 work.vaibhav06@gmail.com
